@@ -7,4 +7,7 @@ Hi 👋, I'm a highschool student and hobbyist developer based in <img width="20
 
 Here are some of the technologies I enjoy using in my projects:
 
-<img alt="Python" align="center" src="https://img.shields.io/badge/-Python-007acc?style=flat&logo=python&logoColor=white" /> <img alt="Java" align="center" src="https://img.shields.io/badge/-Java-43853d?style=flat&logo=Java&logoColor=white" /> <img alt="Vue.js" align="center" src="https://img.shields.io/badge/-Vue.js-00ffff?style=flat&logo=vue.js&logoColor=black" />
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
