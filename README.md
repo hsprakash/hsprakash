@@ -3,7 +3,7 @@
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=hsprakash&count_private=true&include_all_commits=true&show_icons=true&theme=dark&icon_color=fff&hide_border=true">
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=hsprakash&theme=dark&hide_border=true&layout=compact&langs_count=6">
 
-Hi 👋, I'm a highschool student and hobbyist developer based in <img width="20" align="center" src="https://img.icons8.com/color/96/000000/usa.png"/> **USA**.
+Hi 👋, I'm a highschool student based in <img width="20" align="center" src="https://img.icons8.com/color/96/000000/usa.png"/> **USA**.
 
 Here are some of the technologies I enjoy using in my projects:
 
