@@ -1,4 +1,4 @@
-## Welcome to my GitHub profile!
+## Welcome to my GitHub profile! ![Profile Views:](https://komarev.com/ghpvc/?hsprakash&color=brightgreen)
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=hsprakash&count_private=true&include_all_commits=true&show_icons=true&theme=dark&icon_color=fff&hide_border=true">
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=hsprakash&theme=dark&hide_border=true&layout=compact&langs_count=6">
