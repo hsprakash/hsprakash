@@ -1,4 +1,4 @@
-## Welcome to my GitHub profile! ![Profile Views:](https://komarev.com/ghpvc/?hsprakash&color=brightgreen)
+## Welcome to my GitHub profile!
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=hsprakash&count_private=true&include_all_commits=true&show_icons=true&theme=dark&icon_color=fff&hide_border=true">
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=hsprakash&theme=dark&hide_border=true&layout=compact&langs_count=6">
@@ -11,3 +11,6 @@ Here are some of the technologies I enjoy using in my projects:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+############
+![Profile Views:](https://komarev.com/ghpvc/?hsprakash&color=brightgreen)
